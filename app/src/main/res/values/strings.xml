@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Normal_Broadcast</string>
+    <string name="normal_broadcast">发送有序广播</string>
+</resources>
